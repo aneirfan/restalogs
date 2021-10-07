@@ -13,3 +13,5 @@ To start the project (the server). Run the following command
 `
 
 Then your default browser should open automatically and your app should be up and running. 
+
+Happy Coding.
